@@ -24,7 +24,7 @@ class MainUI {
         this.Add_BtnDiscard.OnEvent("Click", this.Add_BtnDiscard_Action.bind(this))
         this.Add_UI.OnEvent("Close", this.Add_BtnDiscard_Action.bind(this))
 
-        this.Edit_UI := Gui("", this.Title . " - Add")
+        this.Edit_UI := Gui("", this.Title . " - Edit")
         this.Edit_UI.AddText("x25 y25 w75 h15", "Input hotkey:")
         this.Edit_InputHotkey := this.Edit_UI.AddHotkey("x25 y45 w135 h20")
         this.Edit_UI.AddText("x25 y75 w55 h15", "Input text:")
