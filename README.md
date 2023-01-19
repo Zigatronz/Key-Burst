@@ -3,7 +3,7 @@
  Simple software made in AHK v2 to type a long text with a hotkey.
 
 # How to download
-- [Download Here](https://github.com/Zigatronz/)
+- [Download Here](https://github.com/Zigatronz/Key-Burst/releases)
 
 # Screenshot
 ![](Img/Picture1.png)
